@@ -1,0 +1,46 @@
+#{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(247, 224, 187);
+    font-family: 'Caveat', cursive;
+}
+h1{
+    font-size: 100px;
+    text-align: center;
+    margin: 0;
+}
+p{
+    font-size: 70px;
+    text-align: center;
+    margin: 0;
+    margin-bottom: 25px;
+}
+.head1{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0;
+}
+img{
+    width: 50%;
+    height: auto;
+}
+.sec1{
+    display: grid;
+    place-items: center;
+}
+.sec2{
+    display: grid;
+    place-items: center;
+}
+.btn{
+    display: grid;
+    place-items: center;
+    margin-top: 15px;
+}
+button{
+    padding: 10px;
+    background-color: rgb(191, 112, 47);
+    border-radius: 50%;
+}
